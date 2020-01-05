@@ -7,7 +7,10 @@ with open('DESCRIPTION.txt') as file:
   
   
 # specify requirements of your package here 
-REQUIREMENTS = ['requirements.txt'] 
+REQUIREMENTS = [
+'certifi==2019.11.28',
+'pygame==1.9.6'
+] 
   
 # some more details 
 CLASSIFIERS = [ 
