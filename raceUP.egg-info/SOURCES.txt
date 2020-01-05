@@ -1,0 +1,8 @@
+README.md
+setup.py
+raceUP.egg-info/PKG-INFO
+raceUP.egg-info/SOURCES.txt
+raceUP.egg-info/dependency_links.txt
+raceUP.egg-info/not-zip-safe
+raceUP.egg-info/requires.txt
+raceUP.egg-info/top_level.txt
