@@ -8,7 +8,7 @@ with open('DESCRIPTION.txt') as file:
   
 # specify requirements of your package here 
 REQUIREMENTS = [
-'certifi==2019.11.28',
+'certifi==2022.12.7',
 'pygame==1.9.6'
 ] 
   
